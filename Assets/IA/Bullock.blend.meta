@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 669e0918e60263d429a33cec3df497c2
+timeCreated: 1438686596
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: BROW
+    100004: //RootNode
+    100006: Head
+    100008: HIPS
+    100010: LEFTANKLE
+    100012: LEFTCLAVICLE
+    100014: LEFTELBOW
+    100016: LEFTELBOWTWIST
+    100018: LEFTFOOT
+    100020: LEFTHANDINDEX1
+    100022: LEFTHANDINDEX2
+    100024: LEFTHANDINDEX3
+    100026: LEFTHANDMIDDLE1
+    100028: LEFTHANDMIDDLE2
+    100030: LEFTHANDMIDDLE3
+    100032: LEFTHANDPINKY1
+    100034: LEFTHANDPINKY2
+    100036: LEFTHANDPINKY3
+    100038: LEFTHANDRING1
+    100040: LEFTHANDRING2
+    100042: LEFTHANDRING3
+    100044: LEFTHANDTHUMB1
+    100046: LEFTHANDTHUMB2
+    100048: LEFTHANDTHUMB3
+    100050: LEFTHIP
+    100052: LEFTHOLD
+    100054: LEFTKNEE
+    100056: LEFTSHOULDER
+    100058: LEFTSHOULDERTWIST
+    100060: LEFTWRIST
+    100062: Lights
+    100064: mesh0000
+    100066: mesh0000_001
+    100068: MOUTH
+    100070: NECK
+    100072: PELVIS
+    100074: RIGHTANKLE
+    100076: RIGHTCLAVICLE
+    100078: RIGHTELBOW
+    100080: RIGHTELBOWTWIST
+    100082: RIGHTFOOT
+    100084: RIGHTHANDINDEX1
+    100086: RIGHTHANDINDEX2
+    100088: RIGHTHANDINDEX3
+    100090: RIGHTHANDMIDDLE1
+    100092: RIGHTHANDMIDDLE2
+    100094: RIGHTHANDMIDDLE3
+    100096: RIGHTHANDPINKY1
+    100098: RIGHTHANDPINKY2
+    100100: RIGHTHANDPINKY3
+    100102: RIGHTHANDRING1
+    100104: RIGHTHANDRING2
+    100106: RIGHTHANDRING3
+    100108: RIGHTHANDTHUMB1
+    100110: RIGHTHANDTHUMB2
+    100112: RIGHTHANDTHUMB3
+    100114: RIGHTHIP
+    100116: RIGHTHOLD
+    100118: RIGHTKNEE
+    100120: RIGHTSHOULDER
+    100122: RIGHTSHOULDERTWIST
+    100124: RIGHTWRIST
+    100126: ROOT
+    100128: SPINE1
+    100130: SPINE2
+    100132: SPINE3
+    400000: Armature
+    400002: BROW
+    400004: //RootNode
+    400006: Head
+    400008: HIPS
+    400010: LEFTANKLE
+    400012: LEFTCLAVICLE
+    400014: LEFTELBOW
+    400016: LEFTELBOWTWIST
+    400018: LEFTFOOT
+    400020: LEFTHANDINDEX1
+    400022: LEFTHANDINDEX2
+    400024: LEFTHANDINDEX3
+    400026: LEFTHANDMIDDLE1
+    400028: LEFTHANDMIDDLE2
+    400030: LEFTHANDMIDDLE3
+    400032: LEFTHANDPINKY1
+    400034: LEFTHANDPINKY2
+    400036: LEFTHANDPINKY3
+    400038: LEFTHANDRING1
+    400040: LEFTHANDRING2
+    400042: LEFTHANDRING3
+    400044: LEFTHANDTHUMB1
+    400046: LEFTHANDTHUMB2
+    400048: LEFTHANDTHUMB3
+    400050: LEFTHIP
+    400052: LEFTHOLD
+    400054: LEFTKNEE
+    400056: LEFTSHOULDER
+    400058: LEFTSHOULDERTWIST
+    400060: LEFTWRIST
+    400062: Lights
+    400064: mesh0000
+    400066: mesh0000_001
+    400068: MOUTH
+    400070: NECK
+    400072: PELVIS
+    400074: RIGHTANKLE
+    400076: RIGHTCLAVICLE
+    400078: RIGHTELBOW
+    400080: RIGHTELBOWTWIST
+    400082: RIGHTFOOT
+    400084: RIGHTHANDINDEX1
+    400086: RIGHTHANDINDEX2
+    400088: RIGHTHANDINDEX3
+    400090: RIGHTHANDMIDDLE1
+    400092: RIGHTHANDMIDDLE2
+    400094: RIGHTHANDMIDDLE3
+    400096: RIGHTHANDPINKY1
+    400098: RIGHTHANDPINKY2
+    400100: RIGHTHANDPINKY3
+    400102: RIGHTHANDRING1
+    400104: RIGHTHANDRING2
+    400106: RIGHTHANDRING3
+    400108: RIGHTHANDTHUMB1
+    400110: RIGHTHANDTHUMB2
+    400112: RIGHTHANDTHUMB3
+    400114: RIGHTHIP
+    400116: RIGHTHOLD
+    400118: RIGHTKNEE
+    400120: RIGHTSHOULDER
+    400122: RIGHTSHOULDERTWIST
+    400124: RIGHTWRIST
+    400126: ROOT
+    400128: SPINE1
+    400130: SPINE2
+    400132: SPINE3
+    4300000: mesh0000_001
+    4300002: mesh0000
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: mesh0000
+    13700002: mesh0000_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
