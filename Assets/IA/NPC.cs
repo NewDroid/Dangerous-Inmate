@@ -42,7 +42,7 @@ public class NPC : MonoBehaviour {
     protected virtual void IrAPunto(Vector3 punto)
     {
         vectorRecorrido = punto - transform.position;
-
+	Debug.Log("Lol");
         mag = Mathf.Sqrt(vectorRecorrido.x * vectorRecorrido.x + vectorRecorrido.y * vectorRecorrido.y + vectorRecorrido.z * vectorRecorrido.z);
         vectorNormalizado = vectorRecorrido / mag;
         GetComponent<Rigidbody>().velocity = vectorNormalizado * velocidad;
